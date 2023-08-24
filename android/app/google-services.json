@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "180285472487",
+    "project_id": "rntodoapp-d54a9",
+    "storage_bucket": "rntodoapp-d54a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180285472487:android:da86ce032cf8e7196dec42",
+        "android_client_info": {
+          "package_name": "com.todosfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180285472487-ed12rdl1etp2222qsri355r6l8qoj4je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todosfirebaseapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "180285472487-rt0ivuag9rl93jr37hjldp3n98lhrhvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2i-pV6fxEyjVnpvyXc2EqCVsfWXsoCNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180285472487-n336e73ulqmjv2omv151hi6957htl8ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
